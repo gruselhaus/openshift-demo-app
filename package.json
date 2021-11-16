@@ -6,6 +6,9 @@
   "author": "Gruselhaus <nico@gruselhaus.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
