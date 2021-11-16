@@ -1,0 +1,12 @@
+{
+  "name": "openshift-demo-app",
+  "version": "1.0.0",
+  "description": "This is my demo app to get a node pod running on openshift",
+  "main": "index.js",
+  "author": "Gruselhaus <nico@gruselhaus.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
